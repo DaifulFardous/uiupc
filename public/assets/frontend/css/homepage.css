@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:wght@400;500;600;700&family=Roboto&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Aldrich&family=Lato:wght@300&family=Poppins:wght@400;500;600;700&family=Roboto&display=swap");
+
+/* CSS Codes of Homepage */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.left-side {
+    margin-top: 162px;
+}
+
+.join {
+    background-color: #ff9c64;
+    width: 176px;
+    height: 59px;
+    border-radius: 5px;
+    font-size: 19px;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    line-height: 22px;
+}
+
+.contestant {
+    width: 176px;
+    height: 59px;
+    border-radius: 5px;
+    font-size: 19px;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    line-height: 22px;
+}
+
+.content {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+}
+
+.hero {
+    margin-bottom: 500px;
+}
+
+.question {
+    background-color: #ff9c64;
+    width: 176px;
+    height: 59px;
+    border-radius: 5px;
+    font-size: 19px;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    line-height: 22px;
+    margin-left: 500px;
+}
+
+/* CSS Codes of problem page */
+
+.my-container {
+    background-color: #d9d9d9;
+    border-radius: 2px;
+    width: 93%;
+    height: 60%;
+    border-radius: 5px;
+}
+
+.categories-styling {
+    color: #ff5c00;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+/* CSS Codes of problem categories */
+
+.my-container-1 {
+    background-color: #d9d9d9;
+    border-radius: 6px;
+    width: auto;
+    height: auto;
+}
+
+.my-container-2 {
+    background-color: #d9d9d9;
+    border-radius: 6px;
+    width: auto;
+    height: auto;
+}
+
+.pr-4 {
+    padding-right: 20px; /* Adjust as needed */
+}
+
+.pl-4 {
+    padding-left: 0px; /* Adjust as needed */
+}
+
+.submit {
+    width: 135px;
+    height: 40px;
+    background: rgba(255, 92, 0, 0.52);
+    border-radius: 3px;
+    border: none;
+    margin-left: 30px;
+}
+
+/* CSS codes of Discussion page */
+
+.my-container-discussion {
+    background-color: #d9d9d9;
+    border-radius: 2px;
+    width: auto;
+    height: auto;
+    padding: 20px;
+}
+
+.my-container h5 {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Footer section */
+footer {
+    background-color: #f8f9fa;
+    padding: 30px 0;
+}
+
+.footer-logo {
+    display: inline-block;
+}
+
+.footer-logo img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+.footer-logo h4 {
+    display: inline-block;
+    margin: 0;
+    font-size: 20px;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.footer-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+.footer-links li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.footer-links li:first-child {
+    margin-left: 0;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+}
+
+.footer-logo img {
+    height: 30px;
+    margin-right: 10px;
+}
+
+.footer-title {
+    text-decoration: none;
+    font-family: "Aldrich", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.text-linkedin {
+    color: #0077b5; /* LinkedIn blue color */
+}
+
+.text-facebook {
+    color: #1877f2; /* Facebook blue color */
+}
+
+.text-instagram {
+    color: #e1306c; /* Instagram pink color */
+}
